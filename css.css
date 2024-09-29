@@ -1,0 +1,20 @@
+.orangcol{
+    color: #FF6500;
+}
+.whitecol{
+    color: white;
+}
+.resize{
+    z-index: -1;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+}
+
+#flex{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
